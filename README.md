@@ -1,4 +1,4 @@
 # time-
 
-This project is created with .
+This project is created with the symphony.
 
